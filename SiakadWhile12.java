@@ -35,6 +35,9 @@ public class SiakadWhile12 {
 
         i++;
     }
+        if (grade > 80 && grade <= 100) {
+        System.out.println("Good, keep the grade");
+        }
         sc.close();
     
 
